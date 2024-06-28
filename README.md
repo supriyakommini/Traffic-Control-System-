@@ -13,5 +13,5 @@
 <img width="478" alt="Screenshot 2024-06-28 at 2 16 59 PM" src="https://github.com/supriyakommini/Traffic-Control-System-/assets/160637240/54dd1a5b-e4a1-4265-b63d-ff3bf3950284">
 
 ## Contributors
-K Supriya
+K Supriya<br>
 R Kavin Kumar
