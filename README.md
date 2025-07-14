@@ -1,4 +1,4 @@
-# Traffic-Control-System-
+# Traffic-Control-System
 - The 8051 Microcontroller Based Traffic Control System is an intelligent traffic control system designed to efficiently manage traffic flow at a 4-way junction. 
 - By leveraging the capabilities of the 8051 microcontroller, this system coordinates the timing and sequencing of traffic signals, ensuring smooth and safe traffic movement at the junction.
 - The system operates in a continuous cycle where, at any moment, one signal is green for a specified duration, the next signal in a clockwise direction is yellow, and the remaining signals are red. This setup ensures that each direction receives an equal amount of green light time, with transitions occurring uniformly across all pathways.
